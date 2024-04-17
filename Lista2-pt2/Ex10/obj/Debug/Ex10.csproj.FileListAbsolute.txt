@@ -1,0 +1,7 @@
+C:\Users\1530757\source\repos\Lista2-pt2\Ex10\bin\Debug\Ex10.exe.config
+C:\Users\1530757\source\repos\Lista2-pt2\Ex10\bin\Debug\Ex10.exe
+C:\Users\1530757\source\repos\Lista2-pt2\Ex10\bin\Debug\Ex10.pdb
+C:\Users\1530757\source\repos\Lista2-pt2\Ex10\obj\Debug\Ex10.csproj.AssemblyReference.cache
+C:\Users\1530757\source\repos\Lista2-pt2\Ex10\obj\Debug\Ex10.csproj.CoreCompileInputs.cache
+C:\Users\1530757\source\repos\Lista2-pt2\Ex10\obj\Debug\Ex10.exe
+C:\Users\1530757\source\repos\Lista2-pt2\Ex10\obj\Debug\Ex10.pdb
