@@ -1,0 +1,7 @@
+C:\Users\1530757\source\repos\Lista2-pt2\Ex13\bin\Debug\Ex13.exe.config
+C:\Users\1530757\source\repos\Lista2-pt2\Ex13\bin\Debug\Ex13.exe
+C:\Users\1530757\source\repos\Lista2-pt2\Ex13\bin\Debug\Ex13.pdb
+C:\Users\1530757\source\repos\Lista2-pt2\Ex13\obj\Debug\Ex13.csproj.AssemblyReference.cache
+C:\Users\1530757\source\repos\Lista2-pt2\Ex13\obj\Debug\Ex13.csproj.CoreCompileInputs.cache
+C:\Users\1530757\source\repos\Lista2-pt2\Ex13\obj\Debug\Ex13.exe
+C:\Users\1530757\source\repos\Lista2-pt2\Ex13\obj\Debug\Ex13.pdb

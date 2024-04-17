@@ -1,0 +1,7 @@
+C:\Users\1530757\source\repos\Lista2-pt2\Ex9\bin\Debug\Ex9.exe.config
+C:\Users\1530757\source\repos\Lista2-pt2\Ex9\bin\Debug\Ex9.exe
+C:\Users\1530757\source\repos\Lista2-pt2\Ex9\bin\Debug\Ex9.pdb
+C:\Users\1530757\source\repos\Lista2-pt2\Ex9\obj\Debug\Ex9.csproj.AssemblyReference.cache
+C:\Users\1530757\source\repos\Lista2-pt2\Ex9\obj\Debug\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\1530757\source\repos\Lista2-pt2\Ex9\obj\Debug\Ex9.exe
+C:\Users\1530757\source\repos\Lista2-pt2\Ex9\obj\Debug\Ex9.pdb
